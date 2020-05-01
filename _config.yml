@@ -1,2 +1,18 @@
-name: Territorio Binario
+title: "Territorio Binario"
+description: "Blog sobre tecnologia .NET"
+url: "https://marcoslg.github.io"
+locale: es_es
 theme: jekyll-theme-architect
+permalink:	/post/:title
+
+
+#contact
+author:
+	name: Marcos López
+	twitter:  https://twitter.com/marcosl_g
+	profile_github:    https://github.com/marcoslg
+	profile_linkedin:  https://www.linkedin.com/in/marcoslopezgallego/
+
+# Gems
+plugins:
+  - jekyll-paginate
