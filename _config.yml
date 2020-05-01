@@ -5,6 +5,13 @@ locale: es_es
 theme: jekyll-theme-architect
 permalink:	/post/:title
 
+links:
+  - name:         Posts
+    url:          /
+    external:     false
+  - name:         Sobre mí
+    url:          /about
+    external:     false
 
 #contact
 author:
