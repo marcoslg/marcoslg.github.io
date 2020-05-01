@@ -1,27 +1,22 @@
-title: Territorio Binario
-#description: Blog sobre tecnologia .NET
-url: https://marcoslg.github.io
-#permalink: /post/:title
-#url:            "https://marcoslg.github.io"
-#locale: es_es
-theme: jekyll-theme-architect
-#permalink:	/post/:title
+# ----------- CONFIGURABLE START -----------
+title:            "Territorio binario"
+description:      "Ejemplo de blog creado con el tema Scribble de Jekyll"
+url:              "https://cmvp-jekyll.github.io/blog" # Site url, without a slash at the end.
+signoff:          "Marcos Lopez" # Your name
+facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
+google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
+share:            false # Turn on twitter and facebook share buttons
 
-#links:
-#  - name:         Posts
-#    url:          /
-#    external:     false
-#  - name:         Sobre mí
-#    url:          /about
-#    external:     false
-#
-##contact
-#author:
-#	name: Marcos López
-#	twitter:  https://twitter.com/marcosl_g
-#	profile_github:    https://github.com/marcoslg
-#	profile_linkedin:  https://www.linkedin.com/in/marcoslopezgallego/
-#
-## Gems
-#plugins:
-#  - jekyll-paginate
+links:
+  - name:         Posts
+    url:          /
+    external:     false
+  - name:         Sobre mÃ­
+    url:          /about
+    external:     false
+# ------------ CONFIGURABLE END ------------
+
+permalink: pretty
+defaults:
+  - values:
+      layout: "default"
