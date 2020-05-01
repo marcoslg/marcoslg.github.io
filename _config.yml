@@ -1,5 +1,7 @@
-#title: "Territorio Binario"
-#description:    "Blog sobre tecnologia .NET"
+title: "Territorio Binario"
+description: "Blog sobre tecnologia .NET"
+url: "https://marcoslg.github.io"
+permalink: /post/:title
 #url:            "https://marcoslg.github.io"
 #locale: es_es
 theme: jekyll-theme-architect
