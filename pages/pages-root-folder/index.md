@@ -5,7 +5,8 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-#header:
+header:
+  background-color: #007FFF
 #  image_fullwidth: header_unsplash_12.jpg
 widget1:
   title: "Blog"
