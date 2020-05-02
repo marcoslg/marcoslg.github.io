@@ -63,7 +63,7 @@
   url: "/blog/"
   side: left
   dropdown:
-  - title: "Blog Archive"
+  - title: "Archivo"
     url: "/blog/archive/"
 
 - title: "Buscar"
