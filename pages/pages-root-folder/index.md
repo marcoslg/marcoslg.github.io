@@ -6,6 +6,7 @@
 #
 layout: frontpage
 header:
+  title: 'Territorio Binario'
   background-color: #007FFF
 #  image_fullwidth: header_unsplash_12.jpg
 widget1:
