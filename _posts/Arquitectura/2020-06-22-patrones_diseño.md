@@ -22,8 +22,7 @@ tags:
 #    homepage: mediaplayer_js-home.jpg
 #    caption: Photo by Corey Blaz
 #    caption_url: https://blaz.photography/
-#mediaplayer: false
-
+---
 Hoy voy a publicar una chuleta de dos páginas que me ha parecido muy interesante. Resume en tan solo dos páginas los principales patrones de diseño de los GoF.
 
 [Patrones de diseño GOF](/files/designpatternscard1.pdf)
