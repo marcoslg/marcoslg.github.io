@@ -3,7 +3,7 @@ layout: page
 #
 # Content
 #
-subheadline: ""
+subheadline: "c#"
 title: "Concatenar strings"
 teaser: "Consideraciones de rendimiento"
 categories:

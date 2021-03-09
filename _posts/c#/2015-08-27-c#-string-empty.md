@@ -3,7 +3,7 @@ layout: page
 #
 # Content
 #
-subheadline: ""
+subheadline: "c#"
 title: "string vacio"
 teaser: "Consideraciones de rendimiento"
 categories:
@@ -23,7 +23,7 @@ tags:
 ---
 
 `Hace ya bastante que no publico un post, lo reconozco, me da pereza tener que enrollarme. Por esta razon voy hacer un post corto pero muy util, sobretodo para aquellos que se estan iniciando en c#.`
-## ¿ Por qué debo usar string.Empty y no “”?
+## ¿Por qué debo usar string.Empty y no “”?
 
 Cuando estamos programando, en ocasiones tenemos la necesidad de utilizar una cadena vacia, es decir, “”. Pero en la mayoria de ocasiones ya sea por pereza, rapidez o simplemente desconocimiento no utilizamos el **string.Empty** cuando es la mejor opción.
 

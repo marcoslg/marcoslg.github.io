@@ -3,7 +3,7 @@ layout: page
 #
 # Content
 #
-subheadline: "EF6 - precompilar vistas"
+subheadline: "EF6"
 title: "EF6 - precompilar vistas"
 teaser: "Consideraciones de rendimiento"
 categories:
