@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "Patrones"
 title: "Chuleta de patrones de diseño"
-teaser: ""
+teaser: "chuleta de dos páginas sobre [Patrones de diseño GOF](/assets/files/designpatternscard1.pdf)"
 categories:
   - arquitectura
 tags:

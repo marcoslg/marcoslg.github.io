@@ -3,9 +3,9 @@ layout: page
 #
 # Content
 #
-subheadline: "c#"
+subheadline: "strings"
 title: "Concatenar strings"
-teaser: "Consideraciones de rendimiento"
+teaser: "Como concatenar correctamente strings"
 categories:
   - c#
 tags:
