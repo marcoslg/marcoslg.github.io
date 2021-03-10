@@ -4,7 +4,8 @@
 # inserted automagically in the webpage. To make
 # this work, you have to use › layout: frontpage
 #
-layout: frontpage
+#layout: frontpage
+layout: blog
 header:
   title: 'Territorio Binario'
   background-color: #007FFF
