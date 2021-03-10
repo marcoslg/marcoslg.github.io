@@ -3,7 +3,7 @@ layout: page
 #
 # Content
 #
-subheadline: "EF6"
+subheadline: "rendimiento"
 title: "EF6 - cache nivel 2"
 teaser: "Consideraciones de rendimiento"
 categories:

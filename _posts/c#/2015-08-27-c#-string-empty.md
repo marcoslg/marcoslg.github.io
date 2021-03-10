@@ -3,9 +3,10 @@ layout: page
 #
 # Content
 #
-subheadline: "c#"
+subheadline: "strings"
 title: "string vacio"
 teaser: "Consideraciones de rendimiento"
+short:"<p>¿Por qué debo usar string.Empty y no \"\"?</p>
 categories:
   - c#
 tags:
