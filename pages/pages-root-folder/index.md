@@ -8,8 +8,9 @@
 layout: blog
 header:
   title: 'Territorio Binario'
-  background-color: #007FFF
+  #background-color: #007FFF
   image_fullwidth: wallpaperbetter.com_2560x1440.jpg
+  pattern: wallpaperbetter.com_2560x1440.jpg
 widget1:
   title: "Blog"
   url: '/blog/'

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Contact"
+title: "Contacto"
 meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
+subheadline: "Contacta"
 teaser: "Get in touch with me? Use the contact form."
 permalink: "/contact/"
 ---
