@@ -1,6 +1,6 @@
-- title: Home
-  url: "/"
-  side: left
+#- title: Home
+#  url: "/"
+#  side: left
 
 #- title: Getting Started
 #  url: "/getting-started/"
@@ -60,11 +60,11 @@
 #    url: "/roadmap/"
 #
 - title: Blog
-  url: "/blog/"
+  url: "/"
   side: left
-  dropdown:
-  - title: "Archivo"
-    url: "/blog/archive/"
+  #dropdown:
+  #- title: "Archivo"
+  #  url: "/blog/archive/"
 
 - title: "Buscar"
   url: "/search/"
